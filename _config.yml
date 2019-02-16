@@ -92,10 +92,10 @@ social-network-links:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: false
-  facebook: false
-  google: false
-  linkedin: false
+  twitter: true
+  facebook: true
+  google: true
+  linkedin: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
@@ -107,7 +107,7 @@ url-pretty: "https://www.stat.berkeley.edu/~hhuang/"  # eg. "deanattali.com/beau
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-134678901-1"
 
 # Google Tag Manager ID
 #gtm: ""
