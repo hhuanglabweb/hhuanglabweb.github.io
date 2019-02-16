@@ -1,0 +1,28 @@
+---
+layout: post
+title: 2019 Spring Group Study: Deep Learning
+subtitle: Fundations and Advances in Deep Learning
+---
+
+This semester (spring 2019), we will be hosting a group study on deep learning at tentative time in room tentative. This is a fast-paced and demanding study group which covers both fundementals of deep learning and recent advances. We highly encourage everyone to read the related materials before the group study.
+
+Everyone is welcomed to sit in. However, due to our fast pace and limited room capacity, we make the following two remarks:
+
+* If the room is too full and we're running out of space, we would ask that sitting-in guests please allow our lab members to sit.
+* Presenter is not obligated to answer any sitting-in guest's questions during his or her presentation for smoothness.
+
+Below is the tentative schedule we proposed for SPRING 2019 semester.
+
+
+|    Week   |                                      Content                                      | Speaker | Resource        |
+|:---------:|:---------------------------------------------------------------------------------:|:-------:|-----------------|
+| Feb 21/22 | Introduction, Fully Connected Network, Back-Prop, SGD, General Tricks in Training |   Tom   | [slide], [code] |
+| Feb 28/1  | Convolutional Neural Network (CNN)                                                |   TBD   | [slide], [code] |
+| Mar 7/8   | Recursive Neural Network (RNN)                                                    |   TBD   | [slide], [code] |
+| Mar 14/15 | Generative Adversarial Network (GAN)                                              |   TBD   | [slide], [code] |
+| Mar 21/22 | Deep Reinforcement Learning (DRL)                                                 |  Yuting | [slide], [code] |
+| Apr 4/5   | Unsupervised Methods: Auto Encoder, Variational Auto Encoder, TSNE                |   TBD   | [slide], [code] |
+| Apr 11/12 | Selected Topics (Tentative): Adversarial Attacks, Robust Neural Net               |   Tom   | [slide], [code] |
+| Apr 18/19 | Selected Topics (Tentative): Transfer Learning, Knowledge Distillation            |   TBD   | [slide], [code] |
+| Apr 25/26 | Selected Topics (Tentative): Model Compression, Information Theory Connection     |   TBD   | [slide], [code] |
+| May 2/3   | Selected Topics (Tentative): Applications in Computational Biology                |   TBD   | [slide], [code] |
