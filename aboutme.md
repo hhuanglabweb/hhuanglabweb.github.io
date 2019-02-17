@@ -1,10 +1,10 @@
 ---
 layout: page
 title: About Me
-subtitle: Associate Professor @ UC Berkeley
+subtitle: Professor @ UC Berkeley
 ---
 
-I am an Associate Professor in Department of Statistics, Interdepartmental Group in Biostatistics and Center for Computational Biology at University of California, Berkeley. 
+I am a Professor in Department of Statistics, Interdepartmental Group in Biostatistics and Center for Computational Biology at University of California, Berkeley. 
  
 You can find my contact information below:
 
