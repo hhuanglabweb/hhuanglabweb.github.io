@@ -8,6 +8,8 @@ title: Projects
 - [Predict Chemical States in Random Heterogenous Polymers](#chemstate)
 - [Bivariate Dependence Modeling and Biological Network Inference](#network)
 
+---
+
 ## Precision Medicine and Therapeutic Discovery <a name="premed"></a>
 > The mission of this project is XXX
 
@@ -21,6 +23,8 @@ title: Projects
 
 + Reverse Correlation for Translating Genomics Features into Therapeutics *(In Preperation)*
 
+---
+
 ## Predict Chemical States in Random Heterogenous Polymers <a name="chemstate"></a>
 > The mission of this project is XXX
 
@@ -31,6 +35,8 @@ title: Projects
 **Publications**:
 
 + Predicting Hydrophobic Segments by High Dimensional Inference and Machine Learning Approaches *(In Preperation)*
+
+---
 
 ## Bivariate Dependence Modeling and Biological Network Inference <a name="network"></a>
 > The mission of this project is XXX
