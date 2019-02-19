@@ -24,7 +24,7 @@ description: Professor Haiyan Huang and her Group at UC Berkeley
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Projects: "https://www.stat.berkeley.edu/~hhuang/"
+  Projects: "project"
   People: "https://www.stat.berkeley.edu/~hhuang/"
   Links:
     - Google Scholar Page: "https://scholar.google.com/citations?user=iVavvW8AAAAJ&hl=en&oi=ao"
