@@ -1,9 +1,14 @@
 ---
 layout: page
-title: Ongoing Projects
+title: Projects
 ---
 
-## Precision Medicine and Therapeutic Discovery
+## Overview
+- [Precision Medicine and Therapeutic Discovery](#premed)
+- [Predict Chemical States in Random Heterogenous Polymers](#chemstate)
+- [Bivariate Dependence Modeling and Biological Network Inference](#network)
+
+## Precision Medicine and Therapeutic Discovery <a name="premed"></a>
 > The mission of this project is XXX
 
 **People**: Calvin Chi, Z. Tom Hu, Zoe Vernon, Yuting Ye
@@ -16,7 +21,7 @@ title: Ongoing Projects
 
 + Reverse Correlation for Translating Genomics Features into Therapeutics *(In Preperation)*
 
-## Predict Chemical States in Random Heterogenous Polymers
+## Predict Chemical States in Random Heterogenous Polymers <a name="chemstate"></a>
 > The mission of this project is XXX
 
 **People**: Yun Zhou
@@ -27,7 +32,7 @@ title: Ongoing Projects
 
 + Predicting Hydrophobic Segments by High Dimensional Inference and Machine Learning Approaches *(In Preperation)*
 
-## Bivariate Dependence Modeling and Biological Network Inference
+## Bivariate Dependence Modeling and Biological Network Inference <a name="network"></a>
 > The mission of this project is XXX
 
 **People**: Yuting Ye
