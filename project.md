@@ -4,7 +4,7 @@ title: Ongoing Projects
 ---
 
 ## Precision Medicine and Therapeutic Discovery
-> The future of precision medicine lies in data.
+> The mission of this project is XXX
 
 **People**: Calvin Chi, Z. Tom Hu, Zoe Vernon, Yuting Ye
 
@@ -17,7 +17,7 @@ title: Ongoing Projects
 + Reverse Correlation for Translating Genomics Features into Therapeutics *(In Preperation)*
 
 ## Predict Chemical States in Random Heterogenous Polymers
-> XXX
+> The mission of this project is XXX
 
 **People**: Yun Zhou
 
@@ -28,7 +28,7 @@ title: Ongoing Projects
 + Predicting Hydrophobic Segments by High Dimensional Inference and Machine Learning Approaches *(In Preperation)*
 
 ## Bivariate Dependence Modeling and Biological Network Inference
-> XXX
+> The mission of this project is XXX
 
 **People**: Yuting Ye
 
