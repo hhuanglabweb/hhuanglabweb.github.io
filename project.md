@@ -43,8 +43,9 @@ title: Projects
 ## Bivariate Dependence Modeling and Biological Network Inference <a name="network"></a>
 > The mission of this project is XXX
 
-**People**: Yuting Ye
+**People**: Yuting Ye, Zoe Vernon
 
-**Collaborators**: Peter Bickel (UC Berkeley)
+**Collaborators**: Professor Peter Bickel
 
 **Publications**:
+
