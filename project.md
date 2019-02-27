@@ -15,7 +15,7 @@ title: Projects
 
 **People**: Calvin Chi, Z. Tom Hu, Zoe Vernon, Yuting Ye
 
-**Collaborators**: Bin Chen (MSU), Jing Xing (MSU)
+**Collaborators**: [Professor Bin Chen's Group](http://binchenlab.org)
 
 **Publications**:
 
@@ -30,9 +30,11 @@ title: Projects
 
 **People**: Yun Zhou
 
-**Collaborators**:
+**Collaborators**: [Professor Ting Xu's Group](https://xugroup.berkeley.edu)
 
 **Publications**:
+
++ Unimolecular Proton-selective Channels Based on Segmental Heterogeneity in Random Heteropolymers, Tao Jiang, Aaron Hall, Marco Eres, Zahra Hemmatian, Baofu Qiao, Yun Zhou, Zhiyuan Ruan, Andrew D. Couse, William T. Heller, Haiyan Huang, Monica Olvera de la Cruz, Marco Rolandi, Ting Xu. *(Submitted to Nature)*
 
 + Predicting Hydrophobic Segments by High Dimensional Inference and Machine Learning Approaches *(In Preperation)*
 
