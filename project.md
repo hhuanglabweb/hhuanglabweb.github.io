@@ -26,9 +26,8 @@ title: Projects
 ---
 
 ## Predict Chemical States in Random Heterogenous Polymers <a name="chemstate"></a>
-<img align="left" src="img/HMM.png" width="250"> We are applying a Hidden Markov Model (HMM) to statistically understand and predict the transmembrane segments in random heteropolymers (RHP) chains. Also, we are extending HMM for large-scale hydrophobic states predictions by adapting variational inference and deep learning.
-<br/>
-<br/>
+> <img align="left" src="img/HMM.png" width="250"> We are applying a Hidden Markov Model (HMM) to statistically understand and predict the transmembrane segments in random heteropolymers (RHP) chains. Also, we are extending HMM for large-scale hydrophobic states predictions by adapting variational inference and deep learning.
+
 **People**: Yun Zhou
 
 **Collaborators**: [Professor Ting Xu's Group](https://xugroup.berkeley.edu)
