@@ -1,15 +1,10 @@
 # TODO
 
-* Get a classification of projects and put currenct projects in
-
 * Get everyone's photo (unless photo-shy) to update the people page
 
 * Add various features, i.e. traffic count
 
-* Adjust css file a little bit more to create a customized theme.
-
-
-------------------------Below are the tutorials for changing things in this repo, please read carefully before making a commit. If you are unsure of a change, ask Tom: Email: zyhu95 DOT berkeley, Wechat: drownmewithrain.------------------------
+------------------------Below are the tutorials for changing things in this repo, please read carefully before making a commit. If you are unsure of a change, ask Tom: Email: zyhu95 DOT berkeley------------------------
 
 ## Add your own content
 
