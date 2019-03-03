@@ -17,7 +17,7 @@ title: Projects
 
 **Collaborators**: [Professor Bin Chen's Group](http://binchenlab.org)
 
-**Publications**:
+**Selected Publications**:
 
 + [AICM: A Genuine Framework for Correcting Inconsistency Between Large Pharmacogenomics Datasets](http://psb.stanford.edu/psb-online/proceedings/psb19/hu.pdf), Zhiyue Tom Hu, Yuting Ye, Patrick Newbury, Haiyan Huang and Bin Chen. In Proceedings of *Pacific Symposium on Biocomputing 2019*
 
@@ -26,13 +26,14 @@ title: Projects
 ---
 
 ## Predict Chemical States in Random Heterogenous Polymers <a name="chemstate"></a>
-> We are applying a Hidden Markov Model (HMM) to statistically understand and predict the transmembrane segments in random heteropolymers (RHP) chains. Also, we are extending HMM for large-scale hydrophobic states predictions by adapting variational inference and deep learning.
-
+<img align="left" src="img/HMM.png" width="250"> We are applying a Hidden Markov Model (HMM) to statistically understand and predict the transmembrane segments in random heteropolymers (RHP) chains. Also, we are extending HMM for large-scale hydrophobic states predictions by adapting variational inference and deep learning.
+<br/>
+<br/>
 **People**: Yun Zhou
 
 **Collaborators**: [Professor Ting Xu's Group](https://xugroup.berkeley.edu)
 
-**Publications**:
+**Selected Publications**:
 
 + Unimolecular Proton-selective Channels Based on Segmental Heterogeneity in Random Heteropolymers, Tao Jiang, Aaron Hall, Marco Eres, Zahra Hemmatian, Baofu Qiao, Yun Zhou, Zhiyuan Ruan, Andrew D. Couse, William T. Heller, Haiyan Huang, Monica Olvera de la Cruz, Marco Rolandi, Ting Xu. *(Submitted to Nature)*
 
@@ -45,8 +46,20 @@ title: Projects
 
 **People**: Yuting Ye, Zoe Vernon
 
-**Collaborators**: Professor Peter Bickel
+**Collaborators**: [Professor Peter Bickel](https://www.stat.berkeley.edu/users/bickel/)
 
-**Publications**:
+**Selected Publications**:
 
-+
++ [Single Cell Clustering Based on Cell-Pair Differentiability Correlation and Variance Analysis,](https://www.ncbi.nlm.nih.gov/pubmed/29771290) Hao Jiang, Lydia L Song, Haiyan Huang, Luonan Chen. *Bioinformatics. 2018 May 16;1:11*
+
++ [Biclustering by Sparse Canonical Correlation Analysis,](https://link.springer.com/article/10.1007/s40484-017-0127-0) Harold Pimental, Zhiyue Tom Hu, Haiyan Huang. *Quantitative Biology. 2018 Mar 1;6(1):56-67*
+
++ [Generalized correlation measure using count statistics for gene expression data with ordered samples,](https://www.ncbi.nlm.nih.gov/pubmed/29040382) YX Rachel Wang, Ke Liu, Elizabeth Theusch, Jerome I Rotter, Marisa W Medina, Michael S Waterman, Haiyan Huang. *Bioinformatics. 2017 Oct 12;34(4):617-24.*
+
++ [SIDEseq: A Cell Similarity Measure Defined by Shared Identified Differentially Expressed Genes for Single-cell RNA Sequencing data,](https://www.researchgate.net/publication/317646092_SIDEseq_A_Cell_Similarity_Measure_Defined_by_Shared_Identified_Differentially_Expressed_Genes_for_Single-Cell_RNA_sequencing_Data) Courtney Schiffman, Christina Lin, Funan Shi, Luonan Chen, Lydia L Sohn, Haiyan Huang. *Statistics in Biosciences. June 2017, Volume 9, Issue 1, pp 200–216.*
+
++ [Inferring Gene-Gene Interactions and Functional Modules Using Sparse Canonical Correlation Analysis,](https://arxiv.org/pdf/1401.6504.pdf) YX Rachel Wang, Keni Jiang, Lewis J Feldman, Peter J. Bickel, Haiyan Huang. *Annals of Applied Statistics. 9(1): 300-323.*
+
++ [Gene Coexpression Measures in Large Heterogeneous Samples Using Count Statistics,](https://pdfs.semanticscholar.org/5c2e/528a5b9b84f91663a7590782097c29c5ae83.pdf) YX Rachel Wang, Michael S. Waterman, Haiyan Huang. *Proc Natl Acad Sci. USA. (PNAS) 111(46):16371-6*
+
++ [A statistical framework to infer functional gene associations from multiple biologically interrelated microarray experiments,](https://www.tandfonline.com/doi/abs/10.1198/jasa.2009.0037) Siew Leng Teng, Haiyan Huang. *Journal of the American Statistical Association*
