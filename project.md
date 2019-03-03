@@ -11,7 +11,7 @@ title: Projects
 ---
 
 ## Precision Medicine and Therapeutic Discovery <a name="premed"></a>
-> <img align="left" src="../img/sensitive-1.png" width="250"> Rapidly decreasing costs of molecular measurement technologies not only enable profiling of disease sample molecular features (e.g., transcriptome, proteome, metabolome) but also enable measuring of molecular signatures of individual drugs in clinically relevant models. We are interested in exploring new computational and statistical methods to relate diseases to potentially efficacious drugs through various molecular features.
+> <img align="left" src="../img/sensitive.gif" width="250"> Rapidly decreasing costs of molecular measurement technologies not only enable profiling of disease sample molecular features (e.g., transcriptome, proteome, metabolome) but also enable measuring of molecular signatures of individual drugs in clinically relevant models. We are interested in exploring new computational and statistical methods to relate diseases to potentially efficacious drugs through various molecular features.
 
 **People**: Calvin Chi, [Z. Tom Hu](http://tomhu.me), Zoe Vernon, Yuting Ye
 
