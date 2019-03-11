@@ -41,7 +41,7 @@ title: Projects
 ---
 
 ## Bivariate Dependence Modeling and Biological Network Inference <a name="network"></a>
-> The mission of this project is XXX
+> Networks pervade many disciplines of science for analyzing complex systems with interacting components. In particular, this concept is commonly used to model interactions between genes and identify closely associated genes forming functional modules to help obtain a more complete portrayal of gene dynamics. Research along this line has been of our interest for a long time.
 
 **People**: Zoe Vernon, Yuting Ye
 
