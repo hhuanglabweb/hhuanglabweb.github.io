@@ -43,7 +43,7 @@ title: Ongoing Projects
 ## Bivariate Dependence Modeling and Biological Network Inference <a name="network"></a>
 > <img align="left" src="../img/network.png" width="250"> Networks pervade many disciplines of science for analyzing complex systems with interacting components. In particular, this concept is commonly used to model interactions between genes and identify closely associated genes forming functional modules to help obtain a more complete portrayal of gene dynamics. Research along this line has been of our interest for a long time.
 
-**People**: Zoe Vernon, Yuting Ye
+**People**: Soyeon Ahn, Zoe Vernon, Yuting Ye, Yun Zhou
 
 **Collaborators**: [Professor Peter Bickel](https://www.stat.berkeley.edu/users/bickel/), [Professor. Marisa Wong Medina](http://www.chori.org/Principal_Investigators/Medina_Marisa/medina_overview.html), [Professor. YX Rachel Wang](https://www.maths.usyd.edu.au/ut/people?sms=y&who=RYX_Wang), [Professor Michael S Waterman](https://dornsife.usc.edu/labs/msw)
 
