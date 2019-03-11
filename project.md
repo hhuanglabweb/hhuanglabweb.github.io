@@ -45,7 +45,7 @@ title: Ongoing Projects
 
 **People**: Soyeon Ahn, Zoe Vernon, Yuting Ye, Yun Zhou
 
-**Collaborators**: [Professor Peter Bickel](https://www.stat.berkeley.edu/users/bickel/), [Professor. Marisa Wong Medina](http://www.chori.org/Principal_Investigators/Medina_Marisa/medina_overview.html), [Professor. YX Rachel Wang](https://www.maths.usyd.edu.au/ut/people?sms=y&who=RYX_Wang), [Professor Michael S Waterman](https://dornsife.usc.edu/labs/msw)
+**Collaborators**: [Professor Peter Bickel](https://www.stat.berkeley.edu/users/bickel/), [Professor. Marisa Wong Medina](http://www.chori.org/Principal_Investigators/Medina_Marisa/medina_overview.html), [Professor Noam Shomoron](https://nshomron.github.io), [Professor. YX Rachel Wang](https://www.maths.usyd.edu.au/ut/people?sms=y&who=RYX_Wang), [Professor Michael S Waterman](https://dornsife.usc.edu/labs/msw)
 
 **Selected Publications**:
 
