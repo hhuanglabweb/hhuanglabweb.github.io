@@ -45,7 +45,7 @@ title: Projects
 
 **People**: Zoe Vernon, Yuting Ye
 
-**Collaborators**: [Professor Peter Bickel](https://www.stat.berkeley.edu/users/bickel/)
+**Collaborators**: [Professor Peter Bickel](https://www.stat.berkeley.edu/users/bickel/), [Dr. Marisa Wong Medina](http://www.chori.org/Principal_Investigators/Medina_Marisa/medina_overview.html), [Professor Michael S Waterman](https://dornsife.usc.edu/labs/msw), [Dr. YX Rachel Wang](https://www.maths.usyd.edu.au/ut/people?sms=y&who=RYX_Wang)
 
 **Selected Publications**:
 
