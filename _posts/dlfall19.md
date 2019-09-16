@@ -1,0 +1,28 @@
+---
+layout: post
+title: 2019 Fall Group Study on Deep Learning
+---
+
+## Introduction to and Advances in Deep Learning
+
+**Organizers: Z. Tom Hu, Yuting Ye**
+
+**Please direct questions to {zyhu95, yeyt} AT berkeley DOT edu**
+
+This semester (fall 2019), we will be hosting a group study on deep learning at every other Monday 12:30 - 2pm in Evans 443. This is a fast-paced and demanding study group which covers both fundementals of deep learning and recent advances. We request everyone to read the related materials before the group study.
+
+Each presentation will be hosted by two of our group members focusing on the reading materials we have assigned.
+
+Below is the tentative schedule we proposed for SPRING 2019 semester.
+
+
+|   Date   |                         Content                          | Speaker        | Reference                      |                     Note                    |
+|:--------:|:--------------------------------------------------------:|:--------------:|:------------------------------:|:-------------------------------------------:|
+| Sep 30   | Feedfarward Neural Networks, Regularization              | Shuni, Zoe     | Goodfellow Ch6, 7 (7.1 - 7.6)  |                                             |
+| Oct 14   | Regularization, Convolutional Neural Network (CNN)       | Yuting, Calvin | Goodfellow Ch7 (7.7 - 7.14), 9 |Please read Chapter 8 by yourself            |
+| Oct 28   | Recurrent Neural Network (RNN), Tricks, Applications     | Tom, Yun       | Goodfellow Ch10, 11, 12        |Chapter 11, 12 will be only briefly covered  |
+| Nov 18   | Predictability, Computability, Stability, Intepretability| Guest          | Stability, Bin Yu, *Bernoulli* |Please also read email attached papers       |
+| Nov 25   | Variational Autoencoders, Probablistic Graphical Models  | Tom, Yun       | Goodfellow Ch14, 16.           |Please read Chapter 11 by yourself           |
+| Dec 2    | Deep Learning Application in Biomedical Research         | Shuni, Zoe     | Paper sent by Haiyan           |                                             |
+| Dec 9    | Representation Learning, Sampling Methods                | Yuting, Calvin | Goodfellow Ch15, 17            |                                             |
+
