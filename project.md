@@ -34,7 +34,7 @@ title: Ongoing Projects
 
 **Selected Publications**:
 
-+ Unimolecular Proton-selective Channels Based on Segmental Heterogeneity in Random Heteropolymers, Tao Jiang, Aaron Hall, Marco Eres, Zahra Hemmatian, Baofu Qiao, Yun Zhou, Zhiyuan Ruan, Andrew D. Couse, William T. Heller, Haiyan Huang, Monica Olvera de la Cruz, Marco Rolandi, Ting Xu. *(Submitted to Nature)*
++ [Single-Chain Heteropolymers Transport Protons Selectively and Rapidly](https://www.nature.com/articles/s41586-019-1881-0), Tao Jiang, Aaron Hall, Marco Eres, Zahra Hemmatian, Baofu Qiao, Yun Zhou, Zhiyuan Ruan, Andrew D. Couse, William T. Heller, Haiyan Huang, Monica Olvera de la Cruz, Marco Rolandi, Ting Xu. *Nature 2020 Jan; 577(7789):216-20.*
 
 + Predicting Hydrophobic Segments by High Dimensional Inference and Machine Learning Approaches *(In Preperation)*
 
@@ -48,6 +48,8 @@ title: Ongoing Projects
 **Collaborators**: [Professor Peter Bickel](https://www.stat.berkeley.edu/users/bickel/), [Professor. Marisa Wong Medina](http://www.chori.org/Principal_Investigators/Medina_Marisa/medina_overview.html), [Professor Noam Shomoron](https://nshomron.github.io), [Professor. YX Rachel Wang](https://www.maths.usyd.edu.au/ut/people?sms=y&who=RYX_Wang), [Professor Michael S Waterman](https://dornsife.usc.edu/labs/msw)
 
 **Selected Publications**:
+
++ [GeneFishing to Reconstruct Context Specific Portraits of Biological Processes,](https://www.pnas.org/content/116/38/18943) Ke Liu, Elizabeth Theusch, Yun Zhou, Tal Ashuach, Andrea C. Dose, Peter J. Bickel, Marisa W. Medina, Haiyan Huang. *PNAS September 17, 2019 116 (38) 18943-18950*
 
 + [Single Cell Clustering Based on Cell-Pair Differentiability Correlation and Variance Analysis,](https://www.ncbi.nlm.nih.gov/pubmed/29771290) Hao Jiang, Lydia L Song, Haiyan Huang, Luonan Chen. *Bioinformatics. 2018 May 16;1:11*
 
