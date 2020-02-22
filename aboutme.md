@@ -4,7 +4,7 @@ title: About Me
 subtitle: Professor @ UC Berkeley
 ---
 
-I am a Professor in Department of Statistics, Interdepartmental Group in Biostatistics and Center for Computational Biology at University of California, Berkeley. 
+I am a Professor in Department of Statistics and the current Director of the Center for Computational Biology (CCB) at University of California, Berkeley. 
  
 You can find my contact information below:
 
